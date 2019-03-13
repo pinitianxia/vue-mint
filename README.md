@@ -1,21 +1,21 @@
-# mintshop-client
+## vue-mint
 
-> Mintshop client project
+vue的一个app 
 
-## Build Setup
+熟悉vue app开发流程
 
-``` bash
-# install dependencies
-npm install
+未打包
 
-# serve with hot reload at localhost:8080
-npm run dev
+## 查看
 
-# build for production with minification
-npm run build
+包内 vue-mint-server为服务端
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+先运行服务端
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+再运行客户端
+
+## 技术
+
+vue全家桶
+
+mint-ui
